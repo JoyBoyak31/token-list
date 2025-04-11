@@ -1,0 +1,12 @@
+{
+    "chainId": 103,
+    "address": "767uN7hU5F5b8ckQqM6G4vAcfKWUwei3RLdSiVDAsHog",
+    "symbol": "MEWT",
+    "name": "My Existing Wallet Token",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/devnet/767uN7hU5F5b8ckQqM6G4vAcfKWUwei3RLdSiVDAsHog/logo.jpg",
+    "tags": ["utility-token", "test-token"],
+    "extensions": {
+      "description": "A test token created for development purposes"
+    }
+  }
